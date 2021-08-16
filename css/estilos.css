@@ -3,4 +3,20 @@ body
     color: darkviolet;
     text-align: center;
     font-family: "Arial";
+    font-size: 30px;
+    margin: 1;
+    padding: 0;
+}
+#container
+{
+    width: 80%;
+    padding: lem;
+    text-align: center;
+    border: 2px solid black;
+    margin: 1 auto;
+}
+
+#contariner h1
+{
+    font-size: 25px;
 }
