@@ -10,4 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi team
+* Incluye ejemplos en Windows, Linux y Mac.
+* disponible para todas las edades
+
 y como un amable recordatorio: **Este readme.md es un chiste**. diseñado para el ejemplo. si llegas acá 
